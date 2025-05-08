@@ -1,0 +1,322 @@
+*{
+    text-decoration: none;
+}
+.a{
+    
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+width: 55%;
+margin-left: 310px;
+
+}
+main{
+      
+    /* background-color: rgb(186, 186, 245); */
+
+}
+/* .h{
+    border: 1px solid;
+    width: 30%;
+    height: 500px;
+    background-color:rgb(250, 164, 5);
+    color: white;
+    border-radius: 20px;
+} */
+.h img{
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 100%;
+}
+.b {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: rgb(249, 164, 6);
+    
+}
+.b h2{
+    font-size: xx-large;
+}
+.b h6{
+    font-size:large;
+}
+
+
+.k{
+    border-radius: 1px solid;
+    width: 100%;
+    height: 150px;
+}
+.c{
+    margin-top: 6px;
+}
+.k .b p{
+    
+    font-size: xx-large;
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+    font-size: large;
+
+}
+h5 button{
+
+    height: 50px;
+    width: 100px;
+    background-color: orange;
+    text-decoration: none;
+    
+    
+}
+button{
+    text-decoration: none;
+    margin-right: 110px
+}
+h5{
+    text-align: center;
+}
+img{
+    background-color: orange;
+    color: black;
+}
+.im img{
+    width: 100%;
+    height: 800px;
+}
+.cy button{
+    margin-right: 120px;
+    background-color: orange;
+}
+.ol{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    
+
+}
+.ol .l img{
+    height: 330px;
+    border: 1px solid;
+    width: 330px;
+    border-radius: 10px;
+    
+
+    
+}
+h4{
+    text-align: center;
+    font-size: large;
+}
+    
+
+.ol .h img{
+    border: 1px solid;
+    width: 330px;
+    border-radius: 10px;
+
+}
+.ol .p img{
+    border: 3px solid;
+    width: 330px;
+    border-radius: 10px;
+}
+
+.gf{
+    text-align: center;
+}
+.gf button{
+    margin-right: 120px;
+    background-color: orange;
+}
+button{
+    text-align: center;
+    margin-left: 120px;
+    background-color: orange;
+
+} 
+.o{
+    text-align: center;
+    border: 1px solid;
+    margin-top: -30px;
+    width: 60%;
+    margin-left: 65px;
+    
+    font-size:larger ;
+
+}
+/* }
+.tt{
+    
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 30px
+}
+.ko img {
+    border: 1px solid;
+    width: 70%;
+    height: 250px;
+    margin-left: 70px
+}   
+.kl img{
+    border: 1px solid;
+    height: 250px;
+    width: 80%
+}
+.u img{
+    border: 1px solid;
+    height: 250px;
+    width: 80%;
+}
+.s img{
+    border: 1px solid;
+    height: 250px;
+    width: 100%;
+
+}
+.r img{
+    border: 1px solid;
+    height: 250px;
+    width: 90%;
+    margin-left: 30px;
+}
+.kn img{
+    border: 1px solid;
+    height: 250px;
+    width: 120%;
+    margin-left: 30px
+}
+.w{
+    text-align: center;
+    border: 1px ;
+    height: 100px;
+    margin-top: 20px;
+    background-color: rgb(180, 180, 241);
+    width: 100%;
+} */
+
+.slinder-container{
+    overflow: hidden;
+    width: 100%;
+    margin: 40px auto;
+}
+.slinder{
+    display: flex;
+    flex-wrap: ;
+    overflow-x: auto;
+    scroll-behavior:auto;
+}
+.slinder img{
+    width: 350px;
+    margin: 10px;
+    height: 300px;
+}
+.harmony1 img{
+    height: 300px;
+}
+.harmony1 p{
+    
+}
+.harmony2 img{
+    height: 300px;
+}
+.harmony2 p{
+    
+}
+.harmony3 img{
+    height: 300px;
+}
+.harm3ony3 p{
+    
+}
+.harmony4 img{
+    height: 300px;
+}
+.harmony4 p{
+
+    
+}
+.harmony5 p{
+
+}
+.harmony6 p{
+    
+}
+.harmony p{
+    
+}
+
+p{
+    text-align: center;
+    font-size: small;
+    
+}
+/* .cy h5{
+    color: black;
+    text-align: center;
+}
+.cy p{
+    color: black;
+    text-align: center;
+}
+.cy h3{
+    text-align: center;
+} */
+.cy{
+    text-align: center;
+
+    height: 200px;
+}
+.HED{
+    display: flex;
+
+}
+.HEB{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    gap: 15px;
+    margin-top: 50px;
+}
+.HER{
+    width:40% ;
+
+}
+.HER P{
+    font-size: x-large;
+    margin-top: 120px;
+}
+
+.HEB img{
+    border: 1px solid;
+    height: 280px;
+
+}
+.harmon5 img{
+    width: 280px;
+}
+.harmon4 img{
+    width: 280px;
+}
+.wb{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    height: 400px;
+    margin-top: 60px;
+    width: 50%;
+    margin-left: 400px;
+}
+.nh{
+margin-left: 60px;
+text-align: center;
+font-size:x-large;
+margin-top: 30px;
+}
+.g{
+    margin-right: 60px;
+}
+.g img{
+    height: 350px;
+}

@@ -1,0 +1,20 @@
+#store li a{
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    /* color: coral; */
+}
+#store li{
+    list-style-type: none;
+    /* line-height: 30px; */
+    padding: 20px 5px;
+    text-align: center;
+}
+.side-bar{
+    border-radius:0 30px ;
+    padding: 35px;
+    height: 800px;
+    outline: 20px solid purple;
+
+
+}

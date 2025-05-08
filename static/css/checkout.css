@@ -1,0 +1,99 @@
+*{
+    margin: 3px 0;
+    padding: 0 3px;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #fafcfc, #bad0f5); /* Gradient background */
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    background-image: url('../../Assets/images/images\ \(18\).jpeg') ;
+    background-size: cover;
+    align-items: center;
+}
+.cute{
+    display: grid;
+    grid-template-columns: repeat(2 ,1fr);
+}
+
+.reg img{
+    margin-top: 50px;
+    opacity: 0.9;
+    transition: opacity 0.5s ease;
+    border-radius: 20px;
+    border: 2px solid #f8f6f6;
+
+}
+
+.reg img:hover {
+    opacity: 1; /* Fully opaque when hovered */
+}
+
+
+#container1{
+    justify-self: center;
+    align-items: center;
+    width: 45%;
+    height: 85vh;
+    margin-top: 30px;
+    
+}
+
+.cont8{
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 30px;  
+  color: aliceblue;
+}
+
+label{
+    text-align: center;
+    margin-left: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    margin-left: 80px;
+    width: 68%;
+    height: 6vh;
+    border: 0px ;
+    border-radius: 5px;
+}
+
+select{
+    margin-left: 80px;
+    width: 68%;
+    height: 6vh;
+    border: 0px;
+    border-radius: 1px;
+}
+
+.btn{
+    /* margin-left: px; */
+    width: 67%;
+    height: 6vh;
+    border: 0px;
+    border-radius: 8px;
+    margin-top: 30px;
+    background-color: rgb(17, 110, 250, 0.822);
+    cursor: pointer;
+    color: white;
+}
+
+@media(max-width:768px){
+#container1{
+    width: 70%;
+    margin: 0 auto;
+    height: 90vh;
+}
+
+label{
+    /* text-align: center; */
+    margin-left: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+}

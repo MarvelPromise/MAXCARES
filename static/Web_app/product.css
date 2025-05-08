@@ -1,0 +1,253 @@
+.a{
+    
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+width: 55%;
+margin-left: 310px;
+
+}
+.k{
+    border-radius: 1px solid;
+    width: 100%;
+    background-color:   rgb(96, 106, 14);
+}
+.c{
+    margin-top: 6px;
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+    font-size: large;
+    color: white;
+}
+.im img{
+    width: 100%;
+    height: 600px;
+}
+.ol{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-evenly;
+
+}
+.ol .l img{
+    height: 330px;
+    border: 1px solid;
+    width: 330px;
+    border-radius: 10px;
+    
+
+    
+}
+h4{
+    text-align: center;
+    font-size: large;
+}
+    
+
+.ol .h img{
+    border: 1px solid;
+    width: 330px;
+    border-radius: 10px;
+
+}
+.ol .p img{
+    border: 1px solid;
+    width: 330px;
+    border-radius: 10px;
+}
+
+.gf{
+    text-align: center;
+}
+button{
+    border: 1px solid;
+    height: 40px;
+    background-color: ;
+
+}
+.o{
+    text-align: center;
+    border: 1px solid;
+    margin-top: -30px;
+    width: 60%;
+    margin-left: 65px;
+    background-color: 
+    font-size:larger ;
+
+}
+/* }
+.tt{
+    
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 30px
+}
+.ko img {
+    border: 1px solid;
+    width: 70%;
+    height: 250px;
+    margin-left: 70px
+}   
+.kl img{
+    border: 1px solid;
+    height: 250px;
+    width: 80%
+}
+.u img{
+    border: 1px solid;
+    height: 250px;
+    width: 80%;
+}
+.s img{
+    border: 1px solid;
+    height: 250px;
+    width: 100%;
+
+}
+.r img{
+    border: 1px solid;
+    height: 250px;
+    width: 90%;
+    margin-left: 30px;
+}
+.kn img{
+    border: 1px solid;
+    height: 250px;
+    width: 120%;
+    margin-left: 30px
+}
+.w{
+    text-align: center;
+    border: 1px ;
+    height: 100px;
+    margin-top: 20px;
+    background-color: rgb(180, 180, 241);
+    width: 100%;
+} */
+
+.slinder-container{
+    overflow: hidden;
+    width: 100%;
+    margin: 40px auto;
+}
+.slinder{
+    display: flex;
+    flex-wrap: ;
+    overflow-x: auto;
+    scroll-behavior:auto;
+}
+.slinder img{
+    width: 500px;
+    margin: 10px;
+}
+.harmony1 img{
+    height: 500px;
+}
+.harmony1 p{
+    color: white;
+}
+.harmony2 img{
+    height: 500px;
+}
+.harmony2 p{
+    color : white
+}
+.harmony3 img{
+    height: 500px;
+}
+.harmony3 p{
+    color : white
+}
+.harmony4 img{
+    height: 500px;
+}
+.harmony4 p{
+    color : white;
+    
+}
+.harmony5 p{
+    color: blue
+}
+.harmony6 p{
+    color: white;
+}
+.harmony p{
+    color: white;
+}
+
+p{
+    text-align: center;
+    font-size: small;
+    
+}
+/* .cy h5{
+    color: black;
+    text-align: center;
+}
+.cy p{
+    color: black;
+    text-align: center;
+}
+.cy h3{
+    text-align: center;
+} */
+.cy{
+    text-align: center;
+
+    height: 200px;
+}
+.HED{
+    display: flex;
+
+}
+.HEB{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    gap: 15px;
+    margin-top: 50px;
+}
+.HER{
+    width:40% ;
+
+}
+.HER P{
+    font-size: x-large;
+    margin-top: 120px;
+}
+
+.HEB img{
+    border: 1px solid;
+    height: 280px;
+
+}
+.harmon5 img{
+    width: 280px;
+}
+.harmon4 img{
+    width: 280px;
+}
+.wb{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    height: 400px;
+    margin-top: 60px;
+    width: 50%;
+    margin-left: 400px;
+}
+.nh{
+margin-left: 60px;
+text-align: center;
+font-size:x-large;
+margin-top: 30px;
+}
+.g{
+    margin-right: 60px;
+}
+.g img{
+    height: 350px;
+}

@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+.min{
+    margin-left: 50px;
+
+}
+.get{
+    border: 1px solid greenyellow;
+    border-radius: 30px;
+    margin-left: 1050px;
+    margin-right: 250px;
+    text-align: center;
+    height: 45px;
+    background-color: greenyellow;
+
+    
+    
+}
